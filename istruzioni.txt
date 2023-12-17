@@ -1,0 +1,26 @@
+Istruzioni del gioco:
+
+Obiettivo:
+Il tuo obiettivo è raggiungere l'uscita senza farti catturare dai nemici e prima che il tempo scada.
+
+Comandi:
+- Utilizza i tasti delle frecce (su, giù, sinistra, destra) o i tasti WASD per muoverti.
+- Raggiungi la porta (l'uscita) per completare il livello.
+
+Regole:
+- Evita i nemici che si muovono nel labirinto.
+- Se entri in contatto con un nemico, perdi.
+- Il tempo è limitato. Se il tempo scade, perdi.
+- Se hai da lamentarti su qualche meccanica del gioco, perdi.
+
+Difficoltà:
+- Puoi selezionare la difficoltà all'inizio del gioco (Facile, Media, Difficile).
+  La difficoltà influisce sulla velocità dei nemici e sulla durata del tempo a disposizione.
+
+Consigli:
+- I nemici (per ora) ti seguono in linea retta, non è dunque difficile evitarli.
+- Quando il tempo arriva al di sotto dei 10 secondi, i nemici aumenteranno al difficoltà, attento.
+- Gli sviluppatori non chiederanno mai la tua password di Google.
+
+Divertiti a giocare a Diop.io!
+Se hai critiche o commenti negativi scrivili su un foglio e appoggialo nel cestino della carta.
